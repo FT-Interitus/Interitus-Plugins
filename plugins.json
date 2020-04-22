@@ -1,5 +1,5 @@
 {
-  "plugin0": {
+   "plugin0": {
     "name": "TestPlugin",
     "Version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
@@ -12,6 +12,6 @@
     "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war aufjeden fall",
     "imageres": "https://www.github.com/exapmle/example/plugin/test.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
-  }  
+  } 
   
 }
