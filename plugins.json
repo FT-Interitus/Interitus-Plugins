@@ -14,6 +14,78 @@
     "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
+  },
+   "plugin2": {
+    "id": 0001,
+    "name": "TestPlugin",
+    "version": "1.0",
+    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
+    "path": "https://www.github.com/example/example/plugin/plugin.jar"
+  },
+   "plugin3": {
+    "id": 0001,
+    "name": "TestPlugin",
+    "version": "1.0",
+    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
+    "path": "https://www.github.com/example/example/plugin/plugin.jar"
+  },
+   "plugin4": {
+    "id": 0001,
+    "name": "TestPlugin",
+    "version": "1.0",
+    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
+    "path": "https://www.github.com/example/example/plugin/plugin.jar"
+  },
+   "plugin5": {
+    "id": 0001,
+    "name": "TestPlugin",
+    "version": "1.0",
+    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
+    "path": "https://www.github.com/example/example/plugin/plugin.jar"
+  },
+   "plugin6": {
+    "id": 0001,
+    "name": "TestPlugin",
+    "version": "1.0",
+    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
+    "path": "https://www.github.com/example/example/plugin/plugin.jar"
+  },
+   "plugin7": {
+    "id": 0001,
+    "name": "TestPlugin",
+    "version": "1.0",
+    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
+    "path": "https://www.github.com/example/example/plugin/plugin.jar"
+  },
+   "plugin8": {
+    "id": 0001,
+    "name": "TestPlugin",
+    "version": "1.0",
+    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
+    "path": "https://www.github.com/example/example/plugin/plugin.jar"
+  },
+   "plugin9": {
+    "id": 0001,
+    "name": "TestPlugin",
+    "version": "1.0",
+    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
+    "path": "https://www.github.com/example/example/plugin/plugin.jar"
+  },
+   "plugin10": {
+    "id": 0001,
+    "name": "TestPlugin",
+    "version": "1.0",
+    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
+    "path": "https://www.github.com/example/example/plugin/plugin.jar"
   }
    
   
