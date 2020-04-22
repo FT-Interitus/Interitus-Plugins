@@ -126,7 +126,7 @@
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war15",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
-  }
+  },
    "plugin16": {
     "id": 0001,
     "name": "TestPlugin",
