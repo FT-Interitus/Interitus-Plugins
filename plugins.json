@@ -13,6 +13,13 @@
     "imageres": "https://www.github.com/exapmle/example/plugin/test.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
  },
+  "plugin2": {
+    "name": "TestPlugin2",
+    "Version": "1.1",
+    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war aufjeden fall",
+    "imageres": "https://www.github.com/exapmle/example/plugin/test.png",
+    "path": "https://www.github.com/example/example/plugin/plugin.jar"
+  },
   "plugin3": {
     "name": "TestPlugin2",
     "Version": "1.1",
@@ -70,13 +77,6 @@
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
   },
   "plugin11": {
-    "name": "TestPlugin2",
-    "Version": "1.1",
-    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war aufjeden fall",
-    "imageres": "https://www.github.com/exapmle/example/plugin/test.png",
-    "path": "https://www.github.com/example/example/plugin/plugin.jar"
-  },
-  "plugin12": {
     "name": "TestPlugin2",
     "Version": "1.1",
     "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war aufjeden fall",
