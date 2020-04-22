@@ -207,14 +207,6 @@
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
   },
-   "plugin25": {
-    "id": 0001,
-    "name": "TestPlugin",
-    "version": "1.0",
-    "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war25",
-    "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
-    "path": "https://www.github.com/example/example/plugin/plugin.jar"
-  },
    "plugin26": {
     "id": 0001,
     "name": "TestPlugin",
@@ -252,6 +244,14 @@
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war30",
+    "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
+    "path": "https://www.github.com/example/example/plugin/plugin.jar"
+  },
+   "plugin31": {
+    "id": 0001,
+    "name": "TestPlugin",
+    "version": "1.0",
+    "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war31",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
   }
