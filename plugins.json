@@ -5,5 +5,13 @@
     "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
     "imageres": "https://www.github.com/exapmle/example/plugin/test.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
-  }
+  },
+  "plugin1": {
+    "name": "TestPlugin2",
+    "Version": "1.1",
+    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war aufjeden fall",
+    "imageres": "https://www.github.com/exapmle/example/plugin/test.png",
+    "path": "https://www.github.com/example/example/plugin/plugin.jar"
+  }  
+  
 }
