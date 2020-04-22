@@ -3,7 +3,7 @@
     "id": 0001,
     "name": "TestPlugin",
     "version": "1.0",
-    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
   },
@@ -11,7 +11,7 @@
     "id": 0001,
     "name": "TestPlugin",
     "version": "1.0",
-    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
   },
@@ -19,7 +19,7 @@
     "id": 0001,
     "name": "TestPlugin",
     "version": "1.0",
-    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
   },
@@ -27,7 +27,7 @@
     "id": 0001,
     "name": "TestPlugin",
     "version": "1.0",
-    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
   },
@@ -35,7 +35,7 @@
     "id": 0001,
     "name": "TestPlugin",
     "version": "1.0",
-    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
   },
@@ -43,7 +43,7 @@
     "id": 0001,
     "name": "TestPlugin",
     "version": "1.0",
-    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
   },
@@ -51,7 +51,7 @@
     "id": 0001,
     "name": "TestPlugin",
     "version": "1.0",
-    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
   },
@@ -59,7 +59,7 @@
     "id": 0001,
     "name": "TestPlugin",
     "version": "1.0",
-    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
   },
@@ -67,7 +67,7 @@
     "id": 0001,
     "name": "TestPlugin",
     "version": "1.0",
-    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
   },
@@ -75,7 +75,7 @@
     "id": 0001,
     "name": "TestPlugin",
     "version": "1.0",
-    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
   },
@@ -83,7 +83,7 @@
     "id": 0001,
     "name": "TestPlugin",
     "version": "1.0",
-    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
   },
@@ -91,7 +91,7 @@
     "id": 0001,
     "name": "TestPlugin",
     "version": "1.0",
-    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
   },
@@ -99,7 +99,7 @@
     "id": 0001,
     "name": "TestPlugin",
     "version": "1.0",
-    "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
+    "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
     "path": "https://www.github.com/example/example/plugin/plugin.jar"
   }
