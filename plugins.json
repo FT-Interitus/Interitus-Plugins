@@ -1,6 +1,6 @@
 {
    "plugin0": {
-    "id": 0001
+    "id": 0001,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion¶Cool nicht war",
