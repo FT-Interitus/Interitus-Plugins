@@ -17,7 +17,7 @@
     "path": "https://www.github.com/example/example/plugin/plugin.jar",
      "detailed_description": "Das ist ein TestPlugin ohne Funktion"
   },
-   "plugin3": {
+   "plugin2": {
     "id": 0001,
     "name": "TestPlugin",
     "version": "1.0",
