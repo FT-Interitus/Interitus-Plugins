@@ -1,11 +1,11 @@
 {
    "plugin0": {
     "id": 0001,
-    "name": "TestPlugin",
+    "name": "Statistics",
     "version": "1.0",
-    "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war0",
+    "description": "Dieses Plugin zeigt dir den Status bzw.\ndie Größe des aktuellen Projekts an",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/SamplePlugin.png",
-    "path": "https://www.github.com/example/example/plugin/plugin.jar"
+    "path": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/statistics/plugin.jar"
   },
    "plugin1": {
     "id": 0001,
