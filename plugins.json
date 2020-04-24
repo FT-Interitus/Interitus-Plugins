@@ -9,7 +9,7 @@
     "detailed_description": "Das Statistics Plugin"
   },
    "plugin1": {
-    "id": 0001,
+    "id": 0002,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war1",
@@ -18,7 +18,7 @@
      "detailed_description": "Das ist ein TestPlugin ohne Funktion"
   },
    "plugin2": {
-    "id": 0001,
+    "id": 0003,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war2",
@@ -27,7 +27,7 @@
      "detailed_description": "Das ist ein TestPlugin ohne Funktion"
   },
    "plugin3": {
-    "id": 0001,
+    "id": 0004,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war3",
@@ -36,7 +36,7 @@
      "detailed_description": "Das ist ein TestPlugin ohne Funktion"
   },
    "plugin4": {
-    "id": 0001,
+    "id": 0005,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war4",
@@ -45,7 +45,7 @@
      "detailed_description": "Das ist ein TestPlugin ohne Funktion"
   },
    "plugin5": {
-    "id": 0001,
+    "id": 0006,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war5",
@@ -54,7 +54,7 @@
      "detailed_description": "Das ist ein TestPlugin ohne Funktion"
   },
    "plugin6": {
-    "id": 0001,
+    "id": 0007,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war6",
@@ -63,7 +63,7 @@
      "detailed_description": "Das ist ein TestPlugin ohne Funktion"
   },
    "plugin7": {
-    "id": 0001,
+    "id": 0008,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war7",
@@ -72,7 +72,7 @@
      "detailed_description": "Das ist ein TestPlugin ohne Funktion"
   },
    "plugin8": {
-    "id": 0001,
+    "id": 0009,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war8",
@@ -81,7 +81,7 @@
      "detailed_description": "Das ist ein TestPlugin ohne Funktion"
   },
    "plugin9": {
-    "id": 0001,
+    "id": 0010,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war9",
@@ -90,7 +90,7 @@
      "detailed_description": "Das ist ein TestPlugin ohne Funktion"
   },
    "plugin10": {
-    "id": 0001,
+    "id": 0011,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war10",
@@ -99,7 +99,7 @@
      "detailed_description": "Das ist ein TestPlugin ohne Funktion"
   },
    "plugin11": {
-    "id": 0001,
+    "id": 0012,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war11",
@@ -108,7 +108,7 @@
      "detailed_description": "Das ist ein TestPlugin ohne Funktion"
   },
    "plugin12": {
-    "id": 0001,
+    "id": 0012,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war12",
@@ -117,7 +117,7 @@
      "detailed_description": "Das ist ein TestPlugin ohne Funktion"
   },
    "plugin13": {
-    "id": 0001,
+    "id": 0013,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war13",
@@ -126,7 +126,7 @@
      "detailed_description": "Das ist ein TestPlugin ohne Funktion"
   },
    "plugin14": {
-    "id": 0001,
+    "id": 0014,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war14",
@@ -135,7 +135,7 @@
      "detailed_description": "Das ist ein TestPlugin ohne Funktion"
   },
    "plugin15": {
-    "id": 0001,
+    "id": 0015,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war15",
@@ -144,7 +144,7 @@
      "detailed_description": "Das ist ein TestPlugin ohne Funktion"
   },
    "plugin16": {
-    "id": 0001,
+    "id": 0016,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war16",
@@ -153,7 +153,7 @@
      "detailed_description": "Das ist ein TestPlugin ohne Funktion"
   },
    "plugin17": {
-    "id": 0001,
+    "id": 0017,
     "name": "TestPlugin",
     "version": "1.0",
     "description": "Das ist ein TestPlugin ohne Funktion\nCool nicht war17",
