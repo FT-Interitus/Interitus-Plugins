@@ -5,7 +5,7 @@
     "version": "1.0",
     "description": "Dieses Plugin zeigt dir den Status bzw.\ndie Größe des aktuellen Projekts an",
     "image": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/statistics/logo.png",
-    "path": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/statistics/plugin.jar",
+    "path": "https://github.com/FT-Interitus/Interitus-Plugins/raw/master/statistics/Statistics.jar",
     "detailed_description": "Mit diesem Plugin kannst du dir ganz einfach die größe deines Projekts\nanschauen. Dabei kannst du dir auch ein paar ganz persönliche\nInformationen einsehen. Wie zum Beispiel die Zeit in Stunden\nwie lange das Programm schon läuft\n\nDie Statistiken kannst du dir dabei ganz\neinfach und schnell über eine weiteren Eintrag\nin der Menüleiste einsehen"
   },
    "plugin1": {
